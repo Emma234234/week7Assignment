@@ -1,4 +1,4 @@
-# Data Analysis & Visualization Assignment
+# Analyzing Data with Pandas and Visualizing Results with Matplotlib Assignment
 
 ## Objective
 Analyze the **Iris dataset** using Pandas, Matplotlib, and Seaborn:
@@ -24,7 +24,4 @@ Iris dataset from `sklearn.datasets.load_iris` with:
 
 ---
 
-##  Run Instructions
-```bash
-pip install pandas matplotlib seaborn scikit-learn
-python assignment.py
+
